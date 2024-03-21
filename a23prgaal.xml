@@ -3,23 +3,23 @@
 <grupo>
     <nombre>Grupo Ammigos</nombre>
 
-<contacto numtelefono="656 656 656" apodo="Javi" fotografia="./r35.png">Javier Perez Rodriguez</contacto>
-<contacto numtelefono="656 656 656" apodo="Rodri" fotografia="./r36.png">Rodrigo Perez Rodriguez</contacto>
-<contacto numtelefono="656 656 656" apodo="Dani" fotografia="./r37.png">Daniel Perez Rodriguez</contacto>
-<contacto numtelefono="656 656 656" apodo="Alberto" fotografia="./r38.png">Alberto Perez Rodriguez</contacto>
-<contacto numtelefono="656 656 656" apodo="David" fotografia="./r39.png">David Perez Rodriguez</contacto>
-<contacto numtelefono="656 656 656" apodo="Sergio" fotografia="./r40.png">Sergio Perez Rodriguez</contacto>
+<contacto numtelefono="656 456 789" apodo="Javi" fotografia="./r35.png">Javier Perez Rodriguez</contacto>
+<contacto numtelefono="656 283 833" apodo="Rodri" fotografia="./r36.png">Rodrigo Perez Rodriguez</contacto>
+<contacto numtelefono="656 327 383" apodo="Dani" fotografia="./r37.png">Daniel Perez Rodriguez</contacto>
+<contacto numtelefono="656 269 023" apodo="Alberto" fotografia="./r38.png">Alberto Perez Rodriguez</contacto>
+<contacto numtelefono="656 121 373" apodo="David" fotografia="./r39.png">David Perez Rodriguez</contacto>
+<contacto numtelefono="656 142 233" apodo="Sergio" fotografia="./r40.png">Sergio Perez Rodriguez</contacto>
 
 <mensaje emisor="Javi" momentoenvio="2024-03-20-17-02-03">Hola que tal</mensaje>
 <mensaje emisor="Alberto" momentoenvio="2024-03-20-17-06-03">Hola que tal</mensaje>
 <mensaje emisor="Sergio" momentoenvio="2024-03-20-17-05-03">Hola que tal</mensaje>
 <mensaje emisor="Rodri" momentoenvio="2024-03-20-17-04-03">Hola que tal</mensaje>
 <mensaje emisor="Dani" momentoenvio="2024-03-20-17-07-03">Hola que tal</mensaje>
-<mensaje emisor="Javi" momentoenvio="2024-03-20-17-08-03">Hola que tal</mensaje>
-<mensaje emisor="Alberto" momentoenvio="2024-03-20-17-09-03">Hola que tal</mensaje>
-<mensaje emisor="David" momentoenvio="2024-03-20-17-10-03">Hola que tal</mensaje>
-<mensaje emisor="Sergio" momentoenvio="2024-03-20-17-11-03">Hola que tal</mensaje>
-<mensaje emisor="Rodri" momentoenvio="2024-03-20-17-13-03">Hola que tal</mensaje>
+<mensaje emisor="Javi" momentoenvio="2024-03-20-17-08-03">Bien y tu</mensaje>
+<mensaje emisor="Alberto" momentoenvio="2024-03-20-17-09-03">Bien y tu</mensaje>
+<mensaje emisor="David" momentoenvio="2024-03-20-17-10-03">Bien y tu</mensaje>
+<mensaje emisor="Sergio" momentoenvio="2024-03-20-17-11-03">Bien y tu</mensaje>
+<mensaje emisor="Rodri" momentoenvio="2024-03-20-17-13-03">Bien y tu</mensaje>
 
 
 </grupo>
