@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <grupo>
-    <nombre> Grupo Ammigos</nombre>
+    <nombre>Grupo Ammigos</nombre>
 
 <contacto numtelefono="656 656 656" apodo="Javi" fotografia="./r35.png">Javier Perez Rodriguez</contacto>
 <contacto numtelefono="656 656 656" apodo="Rodri" fotografia="./r36.png">Rodrigo Perez Rodriguez</contacto>
